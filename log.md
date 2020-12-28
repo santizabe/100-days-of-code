@@ -10,4 +10,10 @@
 
 **Today's progress**: Finished the HTML and HTML5 basic introduction. Now let's go for some CSS, although I know zero about styling LOL
 
-**Thoughts**: I remembered why I hate HTML..  
+**Thoughts**: I remembered why I hate HTML..
+
+### Day 2: December 27, 2020
+
+**Today's progress**: Started learning a bit about CSS. Now my webpage has more style.
+
+**Thought**: I realy like how to include some style to my webpages. Wouldn't mind to work on it.
