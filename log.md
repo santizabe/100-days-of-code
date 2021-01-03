@@ -17,3 +17,15 @@
 **Today's progress**: Started learning a bit about CSS. Now my webpage has more style.
 
 **Thought**: I realy like how to include some style to my webpages. Wouldn't mind to work on it.
+
+### Day 3: December 28, 2020
+
+**Today's progress**: Keeping it up with CSS. Border-radius like my ass.
+
+**Thought**: I hope to sharpen a lot my web dev  skills.
+
+### Day 4: December 29, 2020
+
+**Today's progress**: Learned inheritance and the importance hierarchy of the styles
+
+**Thought**: It's really interesting this kind of things
